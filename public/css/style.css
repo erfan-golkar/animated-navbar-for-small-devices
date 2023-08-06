@@ -18,3 +18,8 @@ body {
   --shadow-high: 4px 4px 12px 2px gray;
   --btn-success: #27a727;
 }
+
+p.tip {
+  background-color: #ffff007e;
+  padding: 12px;
+}

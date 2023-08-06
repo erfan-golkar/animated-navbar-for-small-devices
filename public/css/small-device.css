@@ -136,3 +136,7 @@ aside .close-sign:hover {
 aside .bar-1 {transform: translateY(11px) rotate(-45deg);}
 aside .bar-2 {opacity: 0;}
 aside .bar-3 {transform: translateY(-11px) rotate(45deg);}
+
+p.tip {
+  display: none;
+}
